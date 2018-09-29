@@ -1,0 +1,2 @@
+/Users/qjcbq2/Desktop/Document_Merger/obj/x86/Debug/Document_Merger.csprojAssemblyReference.cache
+/Users/qjcbq2/Desktop/Document_Merger/obj/x86/Debug/Document_Merger.csproj.CoreCompileInputs.cache
